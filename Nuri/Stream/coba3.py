@@ -1,0 +1,1 @@
+print("Wayahe turuu subuh")
